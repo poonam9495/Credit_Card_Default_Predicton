@@ -5,4 +5,9 @@ seaborn
 pandas
 numpy
 scikit_learn
-Flask_pymongo
+imblearn
+bz2file
+jinja2
+itsdangerous
+MarkupSafe
+Werkzeug

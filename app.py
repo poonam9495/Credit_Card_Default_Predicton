@@ -15,7 +15,7 @@ def decompress_pickle(file):
 print("Current working directory:", os.getcwd())
 
 # Debugging: Check if file exists
-file_path = 'ccdp.pbz2'
+file_path ='Notebooks\ccdp.pbz2'
 if os.path.exists(file_path):
     print(f"File '{file_path}' exists.")
     model = decompress_pickle(file_path)
@@ -64,7 +64,7 @@ def predict():
     else:
         prediction = "Model not loaded due to missing file."
 
-    return render_template('index.html', prediction=prediction)
+    return render_template('index.html',prediction=prediction)
 
 if __name__ == "__main__":
     app.run(debug=True)
