@@ -4,7 +4,8 @@ from flask import Flask, request, jsonify, render_template
 import pickle
 import bz2
 
-app = Flask(__name__)
+application = Flask(__name__)
+app=application
 
 def decompress_pickle(file):
     data = bz2.BZ2File(file, 'rb')
