@@ -34,7 +34,7 @@ VS code
 
 
 # Project Interface:
-I have deployed this model to Amazon Web Services (AWS).
+I have deployed this model to Amazon Web Services (AWS)
 
 
 # Technologies:
