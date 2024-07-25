@@ -40,3 +40,5 @@ I stored project data in mongodb compass.
 # Technologies:
 The techniques used for this projects are; Numpy,Pandas,Scikit-learn,Seaborn,
 Jupyter notebook.
+
+
