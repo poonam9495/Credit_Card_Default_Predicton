@@ -17,7 +17,7 @@ There are mainly 2 major parts in this project.
 1.Training a RandomForestClassifier model to predict defaulter as accurate as possible.
 Cleaning the datasets, fixing all features
 Apply Classification ML model
-2.Building and hosting a Flask web app on Heroku.
+2.Building and hosting a Flask web app.
 Build the web app using Flask API
 Upload the project on GitHub
 Get the customer information from Web app
@@ -31,14 +31,13 @@ Install all the required libraries and packages.
 Github account
 AWS account
 VS code
-Mongodb Compass.
+
 
 # Project Interface:
 I have deployed this model to Amazon Web Services (AWS).
-I stored project data in mongodb compass.
+
 
 # Technologies:
 The techniques used for this projects are; Numpy,Pandas,Scikit-learn,Seaborn,
 Jupyter notebook.
-
 
