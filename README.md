@@ -42,3 +42,7 @@ I have deployed this model to Amazon Web Services (AWS)
 The techniques used for this projects are; Numpy,Pandas,Scikit-learn,Seaborn,
 Jupyter notebook.
 
+# Project Demo Video Link:
+https://youtu.be/iGDIzRz0vWI?si=r1wrW-1-QLp7vFgR
+
+
